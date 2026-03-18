@@ -1,6 +1,10 @@
 # C/C++ Compiler-Setup in VS Code
-<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Finferiorak%2FC-Compiler-Setup&title=Visitors&edge_flat=false"/>
-<br>
+
+<div align="center">
+  
+  ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=InferiorAK.C-Compiler-Setup)
+  
+</div>
 
 - `At First Download` <a href="https://sourceforge.net/projects/mingw/" target=_blank>**mingw**</a>
 <br><br>
